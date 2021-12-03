@@ -1,5 +1,6 @@
 # ILP007
-projeto em java de ILP007
+Projeto de ILP007
+FATEC, São Paulo
 
 Isso é um menu de restaurante escrito em java.swing.
 
